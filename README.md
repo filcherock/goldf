@@ -15,3 +15,6 @@ python src/terminal/goldf.py
 # GUI version
 python src/gui/goldf.py
 ```
+
+# License
+goldf is distributed under the GNU GPL license.
